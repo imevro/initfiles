@@ -1,7 +1,7 @@
 ## Sync with Dropbox
 ##### Initial setup
     mkdir Dropbox/Sublime\ Text\ 2
-    
+
     cp -r ~/Library/Application\ Support/Sublime\ Text\ 2/Installed\ Packages ~/Dropbox/Sublime\ Text\ 2
     cp -r ~/Library/Application\ Support/Sublime\ Text\ 2/Packages ~/Dropbox/Sublime\ Text\ 2
     cp -r ~/Library/Application\ Support/Sublime\ Text\ 2/Pristine\ Packages ~/Dropbox/Sublime\ Text\ 2
